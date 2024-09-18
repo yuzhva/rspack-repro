@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/index.1a9c415f.js","sources":["webpack://rspack-repro/./src/index.js"],"sourcesContent":["import('./render').then(exports => {\n    exports.render()\n})\n"],"names":["exports"],"mappings":"u/GAAA,+BAAmB,IAAI,CAACA,AAAAA,IACpBA,EAAQ,MAAM,EAClB,E"}

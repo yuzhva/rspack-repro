@@ -1,0 +1,1 @@
+{"version":3,"file":"src_render_js.css","mappings":"AAAA;AACA;AACA","sources":["webpack://rspack-repro/css ./src/render.css"],"sourcesContent":[".text {\n    color: blue;\n}"],"names":[],"sourceRoot":""}

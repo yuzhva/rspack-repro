@@ -87,9 +87,9 @@ typings/
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
-rsbuild-dist
-rspack-dist
-webpack-dist
+# rsbuild-dist
+# rspack-dist
+# webpack-dist
 # Serverless directories
 .serverless/
 

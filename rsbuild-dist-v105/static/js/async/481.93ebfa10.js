@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_repro=self.webpackChunkrspack_repro||[]).push([["481"],{475:function(e,n,t){function r(){let e=document.createElement("div");e.classList.add("text"),document.getElementsByTagName("body")[0].appendChild(e),e.innerHTML="hello, world"}t.r(n),t.d(n,{render:()=>r})}}]);
+//# sourceMappingURL=481.93ebfa10.js.map

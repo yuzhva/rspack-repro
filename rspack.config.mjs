@@ -14,7 +14,7 @@ if (!isRunningRspack && !isRunningWebpack) {
  */
 const config = {
   mode: "development",
-  devtool: false,
+  devtool: 'source-map',
   entry: {
     main: "./src/index",
   },

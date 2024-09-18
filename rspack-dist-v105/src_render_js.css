@@ -1,0 +1,11 @@
+/* #region "./src/render.css" */
+/*
+- type: css/auto
+*/
+.text {
+    color: blue;
+}
+/* #endregion "./src/render.css" */
+
+head{--webpack-rspack-repro-src_render_js:&\.\/src\/render\.css;}
+/*# sourceMappingURL=src_render_js.css.map*/
